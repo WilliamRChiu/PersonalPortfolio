@@ -1,0 +1,15 @@
+.tag {
+    background-color: #222;
+    color: #87ceeb;
+    padding: 0.3rem 0.75rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    display: inline-block;
+    margin: 0.25rem 0.5rem 0 0;
+    transition: background-color 0.2s ease;
+  }
+  
+.tag:hover {
+    background-color: #2e2e2e;
+  }

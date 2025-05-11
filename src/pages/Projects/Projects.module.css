@@ -1,0 +1,6 @@
+.projectsContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 👈 3 cards per row */
+    gap: 3rem;
+    padding: 4rem;
+  }
